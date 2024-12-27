@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Settings used with MSEndpointMgr Driver Automation Tool-->
+<Drivers>
+  <Model SystemSKU="Surface_Pro_7_1866" ProductName="SurfacePro7" DisplayName="Surface Pro 7" SupportedBuilds="22H2"></Model>
+  <Model SystemSKU="Surface_Pro_7+_1960" ProductName="SurfacePro7Plus" DisplayName="Surface Pro 7+" SupportedBuilds="22H2"></Model>
+  <Model SystemSKU="Surface_Pro_8_for_Business_1983" ProductName="SurfacePro8" DisplayName="Surface Pro 8 for Business" SupportedBuilds="22H2"></Model>
+  <Model SystemSKU="Surface_Pro_9_for_Business_2038" ProductName="SurfacePro9" DisplayName="Surface Pro 9 for Business" SupportedBuilds="22H2"></Model>
+  <Model SystemSKU="Surface_Pro_10_for_Business_2079" ProductName="SurfacePro10" DisplayName="Surface Pro 10 for Business" SupportedBuilds="22H2,23H2"></Model>
+  <Model SystemSKU="Surface_Pro_11th_Edition_For_Business_2085" ProductName="SurfacePro11" DisplayName="Surface Pro 11th Edition for Business" SupportedBuilds="24H2"></Model>
+</Drivers>
